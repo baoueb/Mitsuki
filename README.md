@@ -53,23 +53,11 @@ Download Mitsuki for Mac:
 
 https://github.com/baoueb/Mitsuki/releases/latest
 
-Current direct download:
-
-https://github.com/baoueb/Mitsuki/releases/download/v1.0.10/Mitsuki%201.0.10.dmg
-
 Requirements:
 
 - macOS 13 or later
 - iPhone version coming soon
 
-## Companion tools
-
-Mitsuki is planned as more than one app. The website presents companion tools such as:
-
-- Mitsuki Extension — save subtitle lines as flashcards while watching
-- Voice review — review hands-free with voice
-
-These tools are still being developed and may not all be publicly available yet.
 
 ## Privacy
 
@@ -87,28 +75,7 @@ Mitsuki is currently in active development.
 
 Some features shown on the website may be experimental, upcoming, or part of Mitsuki Pro. The Mac version is the main available version for now, while the iPhone version is planned.
 
-## Tech stack
 
-The Mitsuki app is built for Apple platforms.
-
-The website is built with:
-
-- HTML
-- CSS
-- JavaScript
-- Cloudflare Workers / Pages
-
-## Roadmap
-
-Planned or in-progress areas include:
-
-- iPhone support
-- Chrome extension release
-- Improved anime subtitle flashcard capture
-- More AI study tools
-- Better JLPT practice flows
-- More polished review mode
-- Sync across devices
 
 ## Official links
 
@@ -132,9 +99,6 @@ ybaouab2@gmail.com
 
 This application uses dictionary data from the JMdict/EDICT Dictionary Project, © James William Breen and the Electronic Dictionary Research and Development Group, used under the EDRDG licence.
 
-Anki is a registered trademark of Ankitects Pty Ltd.
-
-Mitsuki is an independent application and is not affiliated with, endorsed by, or sponsored by Ankitects Pty Ltd, AnkiWeb, Anki, or AnkiMobile.
 
 ## License
 
